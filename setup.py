@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='mysql_db_helper',
-    version='0.0.2',
+    version='0.0.3',
     author='Doclr',
     author_email='info@doclr.be',
     description='Simple mysql db helper functions',
