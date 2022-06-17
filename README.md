@@ -1,6 +1,3 @@
-# python-mysql-db-helper
-Simple mysql db helper functions
-
 # MySQL DB Helper
 MySQL DB Helper is a Python package that contains handy functions for querying MySQL. 
 
