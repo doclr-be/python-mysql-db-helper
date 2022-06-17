@@ -9,7 +9,8 @@ pip install git+https://github.com/doclr-be/python-mysql-db-helper
 ```
 
 ## Usage
-####Features
+
+#### Features:
 * DbClient.query  --> returns DbQueryResult that contains rows and headers
 * DbClient.query_to_csv --> returns a csv in string format, first row contains headers
 
